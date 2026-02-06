@@ -49,10 +49,6 @@ The network is connected using a **Cisco 2911 router** and a **Cisco 2960 switch
 | Facebook Server | 10.10.10.20 | 10.10.10.1 | 10.10.10.10 |
 | Email Server | 10.10.10.100 | 10.10.10.1 | 10.10.10.10 |
 
-![IP Addressing Plan](images/ip_addressing.jpeg)
-
----
-
 ## 🌍 DNS Configuration
 
 The DNS server resolves domain names to internal server IPs.
